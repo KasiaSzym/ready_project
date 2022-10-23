@@ -11,7 +11,7 @@ cout<<"enter first number:\n";
 cin>>a;
 cout<<"enter second number:\n";
 cin>>b;
-cout<<sum(a,b)<<endl;
+cout<<"result of your operation is:"<<sum(a,b)<<endl;
 
 return 0;
 }
